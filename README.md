@@ -1,2 +1,3 @@
 # hello-world.
-This is for school. Shugnite.
+I am Ryan. I have a son who is 19 months old. My major is software development. 
+Condados has the best tacos!
